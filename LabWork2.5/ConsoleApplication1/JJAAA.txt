@@ -1,0 +1,35 @@
+Person 1:
+Surname: Madaev
+Name: Alikhan
+Patronymic: Akhyadovich
+Gender: M
+Nationality: Chechen
+Height: 177
+Weight: 65
+Date of Birth: 17.04.2005
+Phone Number: +7934112873931
+Home Address: Russian Federation, New Region, Unknown District, Stavropol, Lenin Street, House 6, Apartment 262, Postal Code 662633
+
+Person 2:
+Surname: Madaev
+Name: Alikhan
+Patronymic: Akhyadovich
+Gender: M
+Nationality: Chechen
+Height: 177
+Weight: 65
+Date of Birth: 17.04.2011
+Phone Number: +70000000
+Home Address: Russian Federation, New Region, Unknown District, Stavropol, Lenin Street, House 6, Apartment 262, Postal Code 662633
+
+Person 3:
+Surname: Madaev
+Name: Alikhan
+Patronymic: Akhyadovich
+Gender: M
+Nationality: Chechen
+Height: 177
+Weight: 65
+Date of Birth: 18.04.2011
+Phone Number: +7934112873931
+Home Address: Russian Federation, New Region, Unknown District, Stavropol, Lenin Street, House 6, Apartment 262, Postal Code 662633
